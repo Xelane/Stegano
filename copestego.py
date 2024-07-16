@@ -1,4 +1,4 @@
-import wx
+import wx #test
 from PIL import Image
 def genData(data):
     newd = []
